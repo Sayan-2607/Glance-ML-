@@ -4,14 +4,14 @@ Glance-ML is a **multimodal fashion image retrieval system** that enables users 
 
 Unlike traditional CLIP-based retrieval, Glance-ML understands **compositional queries** such as:
 
-- ✅ "A red shirt and blue pants"
-- ❌ "A blue shirt and red pants"
+-  "A red shirt and blue pants"
+-  "A blue shirt and red pants"
 
 by incorporating body-region-aware attribute matching during retrieval.
 
 ---
 
-## ✨ Features
+##  Features
 
 -  Natural language fashion search
 -  Hybrid retrieval using embeddings + structured attributes
@@ -159,7 +159,7 @@ Blue hoodie with jeans
 
 ---
 
-# 📈 Evaluation
+#  Evaluation
 
 Run the predefined evaluation queries
 
