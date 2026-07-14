@@ -1,0 +1,11 @@
+# Core (needed for the offline fallback backend + all plumbing)
+numpy
+Pillow
+
+# Production backend (indexer/embedding_backend.py: ClipFashionBackend)
+torch
+transformers
+
+# Optional: faster vector search at scale (vectorstore/store.py falls back
+# to a numpy matmul automatically if this is not installed)
+faiss-cpu

@@ -1,0 +1,224 @@
+{
+  "A person in a bright yellow raincoat.": [
+    {
+      "image_id": "8e9562c6d5d6091d07cd4adfe7878dfa",
+      "path": "data/images/8e9562c6d5d6091d07cd4adfe7878dfa.jpg",
+      "final_score": 0.3115,
+      "embed_score": 0.5664,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "d32e59c2d829afffa3d1def2fba96d2c",
+      "path": "data/images/d32e59c2d829afffa3d1def2fba96d2c.jpg",
+      "final_score": 0.3032,
+      "embed_score": 0.5513,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "c67f567b2bcd6a7204842d1019a0287d",
+      "path": "data/images/c67f567b2bcd6a7204842d1019a0287d.jpg",
+      "final_score": 0.2981,
+      "embed_score": 0.542,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "9eb8652e63ac33c79a9277fe0e115440",
+      "path": "data/images/9eb8652e63ac33c79a9277fe0e115440.jpg",
+      "final_score": 0.2891,
+      "embed_score": 0.5257,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "2124c532db8efdacf127013fbd5461e7",
+      "path": "data/images/2124c532db8efdacf127013fbd5461e7.jpg",
+      "final_score": 0.2729,
+      "embed_score": 0.4962,
+      "attr_score": 0.0,
+      "explanations": []
+    }
+  ],
+  "Professional business attire inside a modern office.": [
+    {
+      "image_id": "2124c532db8efdacf127013fbd5461e7",
+      "path": "data/images/2124c532db8efdacf127013fbd5461e7.jpg",
+      "final_score": 0.3624,
+      "embed_score": 0.6589,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "cf9ee579dfff83db95d3ad350557245a",
+      "path": "data/images/cf9ee579dfff83db95d3ad350557245a.jpg",
+      "final_score": 0.3572,
+      "embed_score": 0.6495,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "6dfc00b7184421eca9638b8e380a1226",
+      "path": "data/images/6dfc00b7184421eca9638b8e380a1226.jpg",
+      "final_score": 0.3511,
+      "embed_score": 0.6383,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "24b7c65d52433d1fd9f3530d18ea9779",
+      "path": "data/images/24b7c65d52433d1fd9f3530d18ea9779.jpg",
+      "final_score": 0.3458,
+      "embed_score": 0.6287,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "b0ff6edc573ce8ec7e28b608c668a19d",
+      "path": "data/images/b0ff6edc573ce8ec7e28b608c668a19d.jpg",
+      "final_score": 0.3446,
+      "embed_score": 0.6265,
+      "attr_score": 0.0,
+      "explanations": []
+    }
+  ],
+  "Someone wearing a blue shirt sitting on a park bench.": [
+    {
+      "image_id": "d47f5c8a886204cd7b315af23ce90b4e",
+      "path": "data/images/d47f5c8a886204cd7b315af23ce90b4e.jpg",
+      "final_score": 0.4289,
+      "embed_score": 0.3708,
+      "attr_score": 0.5,
+      "explanations": [
+        "matched blue shirt in upper_body"
+      ]
+    },
+    {
+      "image_id": "afb9a5cf678b096c08cee2bae6180f1b",
+      "path": "data/images/afb9a5cf678b096c08cee2bae6180f1b.jpg",
+      "final_score": 0.4273,
+      "embed_score": 0.3679,
+      "attr_score": 0.5,
+      "explanations": [
+        "matched blue shirt in upper_body"
+      ]
+    },
+    {
+      "image_id": "ac69eb5fd7e6417a8fec1450d2ca8940",
+      "path": "data/images/ac69eb5fd7e6417a8fec1450d2ca8940.jpg",
+      "final_score": 0.3779,
+      "embed_score": 0.2781,
+      "attr_score": 0.5,
+      "explanations": [
+        "matched blue shirt in upper_body"
+      ]
+    },
+    {
+      "image_id": "c7ab3258faa14bd182e8cb18d225b6f7",
+      "path": "data/images/c7ab3258faa14bd182e8cb18d225b6f7.jpg",
+      "final_score": 0.377,
+      "embed_score": 0.2764,
+      "attr_score": 0.5,
+      "explanations": [
+        "matched blue shirt in upper_body"
+      ]
+    },
+    {
+      "image_id": "cfc959561412f65791291a7cf5048c15",
+      "path": "data/images/cfc959561412f65791291a7cf5048c15.jpg",
+      "final_score": 0.3604,
+      "embed_score": 0.2462,
+      "attr_score": 0.5,
+      "explanations": [
+        "matched blue shirt in upper_body"
+      ]
+    }
+  ],
+  "Casual weekend outfit for a city walk.": [
+    {
+      "image_id": "2124c532db8efdacf127013fbd5461e7",
+      "path": "data/images/2124c532db8efdacf127013fbd5461e7.jpg",
+      "final_score": 0.3624,
+      "embed_score": 0.6589,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "cf9ee579dfff83db95d3ad350557245a",
+      "path": "data/images/cf9ee579dfff83db95d3ad350557245a.jpg",
+      "final_score": 0.3572,
+      "embed_score": 0.6495,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "6dfc00b7184421eca9638b8e380a1226",
+      "path": "data/images/6dfc00b7184421eca9638b8e380a1226.jpg",
+      "final_score": 0.3511,
+      "embed_score": 0.6383,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "24b7c65d52433d1fd9f3530d18ea9779",
+      "path": "data/images/24b7c65d52433d1fd9f3530d18ea9779.jpg",
+      "final_score": 0.3458,
+      "embed_score": 0.6287,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "b0ff6edc573ce8ec7e28b608c668a19d",
+      "path": "data/images/b0ff6edc573ce8ec7e28b608c668a19d.jpg",
+      "final_score": 0.3446,
+      "embed_score": 0.6265,
+      "attr_score": 0.0,
+      "explanations": []
+    }
+  ],
+  "A red tie and a white shirt in a formal setting.": [
+    {
+      "image_id": "c578bd4c57daafb0661a41dba566aa07",
+      "path": "data/images/c578bd4c57daafb0661a41dba566aa07.jpg",
+      "final_score": 0.4173,
+      "embed_score": 0.5542,
+      "attr_score": 0.25,
+      "explanations": [
+        "matched white shirt in upper_body"
+      ]
+    },
+    {
+      "image_id": "3e4627f24c244659d60bde2c8bdbe64e",
+      "path": "data/images/3e4627f24c244659d60bde2c8bdbe64e.jpg",
+      "final_score": 0.4121,
+      "embed_score": 0.7493,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "0b915f1e29a2e2dacf96aacd3cb6a3cc",
+      "path": "data/images/0b915f1e29a2e2dacf96aacd3cb6a3cc.jpg",
+      "final_score": 0.4117,
+      "embed_score": 0.7485,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "2124c532db8efdacf127013fbd5461e7",
+      "path": "data/images/2124c532db8efdacf127013fbd5461e7.jpg",
+      "final_score": 0.4113,
+      "embed_score": 0.7477,
+      "attr_score": 0.0,
+      "explanations": []
+    },
+    {
+      "image_id": "8e9562c6d5d6091d07cd4adfe7878dfa",
+      "path": "data/images/8e9562c6d5d6091d07cd4adfe7878dfa.jpg",
+      "final_score": 0.4068,
+      "embed_score": 0.7396,
+      "attr_score": 0.0,
+      "explanations": []
+    }
+  ]
+}
