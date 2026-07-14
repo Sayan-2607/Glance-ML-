@@ -1,4 +1,4 @@
-# 👗 Glance-ML: Multimodal Fashion & Context Retrieval
+#  Glance-ML: Multimodal Fashion & Context Retrieval
 
 Glance-ML is a **multimodal fashion image retrieval system** that enables users to search for fashion images using natural language descriptions. It combines **global image embeddings** with **structured attribute-based matching** to accurately retrieve images that match both the overall appearance and specific clothing details.
 
@@ -13,17 +13,17 @@ by incorporating body-region-aware attribute matching during retrieval.
 
 ## ✨ Features
 
-- 🔍 Natural language fashion search
-- 🧠 Hybrid retrieval using embeddings + structured attributes
-- 👕 Region-wise garment and color detection
-- ⚡ Fast Approximate Nearest Neighbor (ANN) search using FAISS
-- 🎯 Attribute-aware re-ranking for improved accuracy
-- 🔄 Pluggable embedding backend (Offline + CLIP)
-- 📊 Automated evaluation pipeline
+-  Natural language fashion search
+-  Hybrid retrieval using embeddings + structured attributes
+-  Region-wise garment and color detection
+-  Fast Approximate Nearest Neighbor (ANN) search using FAISS
+-  Attribute-aware re-ranking for improved accuracy
+-  Pluggable embedding backend (Offline + CLIP)
+-  Automated evaluation pipeline
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
                 Fashion Images
@@ -62,7 +62,7 @@ by incorporating body-region-aware attribute matching during retrieval.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 config.py
@@ -90,7 +90,7 @@ config.py
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository
 
@@ -123,7 +123,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🚀 Build the Index
+# Build the Index
 
 Offline Backend
 
@@ -133,7 +133,7 @@ python -m indexer.build_index --images data/images --out outputs/index --backend
 
 ---
 
-# 🔎 Search Images
+#  Search Images
 
 ```bash
 python -m retriever.search \
@@ -174,7 +174,7 @@ The evaluation script generates result thumbnail grids for qualitative compariso
 
 ---
 
-# 🧠 Production CLIP Backend
+#  Production CLIP Backend
 
 Install additional dependencies
 
@@ -200,7 +200,7 @@ python -m retriever.search \
 
 ---
 
-# 🔬 Retrieval Pipeline
+# Retrieval Pipeline
 
 ### Step 1
 
@@ -256,7 +256,7 @@ Return Top-K Results
 
 ---
 
-# 💡 Why Hybrid Retrieval?
+#  Why Hybrid Retrieval?
 
 Traditional CLIP embeddings capture the overall appearance of an image but often struggle with compositional queries where garment colors or positions are swapped.
 
@@ -270,7 +270,7 @@ This significantly improves retrieval accuracy for fine-grained fashion queries.
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - FAISS
@@ -283,14 +283,14 @@ This significantly improves retrieval accuracy for fine-grained fashion queries.
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 - Fashionpedia Validation/Test Dataset
 - Approximately 800 fashion images
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - BLIP/LLaVA-based caption generation
 - Fashion-specific CLIP fine-tuning
@@ -301,7 +301,7 @@ This significantly improves retrieval accuracy for fine-grained fashion queries.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Sayan Ghosh**
 
@@ -312,6 +312,6 @@ GitHub: https://github.com/Sayan-2607
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
